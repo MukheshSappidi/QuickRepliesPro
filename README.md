@@ -10,7 +10,6 @@ A blazing-fast, lightweight open-source desktop quick-reply utility built for po
 - **Dual Global Hotkey Triggers**: Instantly invoke your search popup anywhere using **`Alt + Q`** or the single backtick key (**`` ` ``**) positioned right above your Tab key.
 - **Zero Key Conflicts**: Engineered to completely bypass native app shortcut restrictions (such as standard chat app `/` limitations).
 - **Smart Real-Time Filtering**: Type a keyword or shortcut fragment to instantly filter through hundreds of custom templates.
-- **Lightning-Fast Auto-Paste Engine**: Automatically copies your selected template to the system clipboard and simulates `Ctrl + V` to drop the text seamlessly into your active chat window.
 - **Persistent SQLite Backend**: Local data storage with full usage tracking and statistics (`Total replies` and `Total uses`).
 - **JSON Portability**: Easily import or export your template library for backups or sharing with team members.
 - **System Tray Integration**: Runs quietly in your Windows system tray without cluttering your taskbar.
