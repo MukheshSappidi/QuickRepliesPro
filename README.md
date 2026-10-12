@@ -2,7 +2,6 @@
 
 A blazing-fast, lightweight open-source desktop quick-reply utility built for power users, customer support agents, and professionals using WhatsApp Business, CRM systems, or any text-heavy application on Windows.
 
-![Dashboard Preview](assets/dashboard_preview.png)
 
 ---
 
