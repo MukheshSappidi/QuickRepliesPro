@@ -18,7 +18,6 @@ QuickRepliesPro is designed for anyone who types the same messages over and over
 - **Dual Global Hotkey Triggers**: Instantly invoke your search popup anywhere using **Alt + Q** or the **backtick key** use this ` located right above your Tab key (ideal for standard QWERTY layouts).
 - **Zero Key Conflicts**: Engineered to completely bypass native app shortcut restrictions.
 - **Smart Real-Time Filtering**: Type a keyword to instantly filter through your custom templates.
-- **Lightning-Fast Auto-Paste Engine**: Automatically copies your selected template to the system clipboard and simulates Ctrl + V to drop the text seamlessly into your active window.
 - **Persistent SQLite Backend**: Local data storage with full usage tracking.
 - **JSON Portability**: Easily import or export your template library for backups or sharing.
 - **System Tray Integration**: Runs quietly in your Windows system tray without taskbar clutter.
