@@ -1,0 +1,17 @@
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller build outputs & specs
+build/
+dist/
+*.spec
+
+# Local SQLite databases
+*.db
+*.sqlite3
+
+# OS specific files
+.DS_Store
+Thumbs.db
