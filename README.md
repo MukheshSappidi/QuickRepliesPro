@@ -33,6 +33,10 @@ QuickRepliesPro is designed for anyone who types the same messages over and over
 
 ---
 
+💡 Important Note on Global Hotkeys:
+If the hotkeys (Alt + Q or `) occasionally stop working when you open other applications (like games, task manager, or elevated windows), it is because Windows protects global inputs from background scripts.
+Fix: Run your terminal or Python script as an Administrator, or set your compiled .exe to always run as administrator (Right-click the executable -> Properties -> Compatibility -> Check "Run this program as an administrator").
+
 ## 🚀 Getting Started (Installation)
 
 ### 1. Prerequisites
